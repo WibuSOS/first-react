@@ -1,0 +1,23 @@
+.App-content {
+  padding: 10vmin;
+  min-height: 80vmin;
+}
+
+.Content-title {
+  margin: 0;
+  font-size: 39px;
+  letter-spacing: -0.05em;
+}
+
+.Content-facts {
+  margin-top: 5vmin;
+}
+
+.Content-facts>li {
+  padding-block: 10px;
+}
+
+.Content-facts>li::marker {
+  font-size: 1.4rem;
+  color: #61DBFB;
+}
